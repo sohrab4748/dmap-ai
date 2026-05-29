@@ -80,3 +80,4 @@ If you use DMAP-AI in research, reports, teaching, presentations, or publication
 
 ```text
 Kolsoumi Ayask, S. (2026). DMAP-AI: Drought Monitoring and Analysis Platform – AI [Software]. AgriMetSoft LLC. https://droughtanalysis.com/
+```
